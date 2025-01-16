@@ -5,6 +5,8 @@ I'm currently working as a Cloud Solution Architect at Microsoft, primarily focu
 * [Cost and Optmization Dashboard](https://github.com/fabiotreze/public_randomstuff/tree/main/dashboards)
 ## Azure Automation
 * [Azure Arc SQL Instance - Tag Inheritance script](https://github.com/fabiotreze/Azure-Automation/blob/main/README.md)
+## Azure Arc
+* [Azure Arc](https://github.com/fabiotreze/AzureArcDemo/blob/main/README.md)
 </br>
 Your visit is much appreciated – thank you!
 
