@@ -1,13 +1,17 @@
-# **Introduction**
-I'm currently working as a Cloud Solution Architect at Microsoft, primarily focused on Azure Infrastructure. Therefore, you'll find that most of the content I engage with is related to Azure Infrastructure.
-</br>
-## Azure Arc
-* [Azure Arc](https://github.com/fabiotreze/AzureArcDemo/blob/main/README.md)
-* [Azure Arc SQL Instance - Tag Inheritance script](https://github.com/fabiotreze/Azure-Automation/blob/main/README.md)
-## Azure Dashboards
-* [Cost and Optmization Dashboard](https://github.com/fabiotreze/public_randomstuff/tree/main/dashboards)
-</br>
-Your visit is much appreciated – thank you!
+# Welcome to My GitHub
+
+I'm a Cloud Solution Architect at Microsoft with over three years of experience in cloud engineering. I specialize in Azure Infrastructure and Microsoft Endpoint Manager, helping customers optimize their cloud solutions. On this page, you'll find a collection of projects, resources, and demos focused on Azure and cloud best practices.
+
+## Featured Projects
+
+### Azure Arc
+- [Azure Arc Overview](https://github.com/fabiotreze/AzureArcDemo/blob/main/README.md)
+- [Azure Arc SQL Instance - Tag Inheritance Script](https://github.com/fabiotreze/Azure-Automation/blob/main/README.md)
+
+### Azure Dashboards
+- [Cost and Optimization Dashboard](https://github.com/fabiotreze/public_randomstuff/tree/main/dashboards)
+
+Feel free to explore, and don't hesitate to reach out if you'd like to collaborate or ask any questions!
 
 <!--
 **fabiotreze/fabiotreze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
