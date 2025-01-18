@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-I'm a Cloud Solution Architect at Microsoft with over three years of experience in cloud engineering. I specialize in Azure Infrastructure and Microsoft Endpoint Manager, helping customers optimize their cloud solutions. On this page, you'll find a collection of projects, resources, and demos focused on Azure and cloud best practices.
+I'm a Cloud Solution Architect at Microsoft with experience in cloud engineering. I specialize in Azure Infrastructure and Microsoft Endpoint Manager, helping customers optimize their cloud solutions. On this page, you'll find a collection of projects, resources, and demos focused on Azure and cloud best practices.
 
 ## Featured Projects
 
