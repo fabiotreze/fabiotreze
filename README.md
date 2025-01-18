@@ -7,7 +7,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fabiotrez
 ## Featured Projects
 
 ### Azure Arc
-- [Azure Arc Overview](https://github.com/fabiotreze/AzureArcDemo/blob/main/README.md)
+- [Azure Arc Demo](https://github.com/fabiotreze/AzureArcDemo/blob/main/README.md)
 - [Azure Arc SQL Instance - Tag Inheritance Script](https://github.com/fabiotreze/Azure-Automation/blob/main/README.md)
 
 ### Azure Dashboards
