@@ -1,11 +1,11 @@
 # **Introduction**
 I'm currently working as a Cloud Solution Architect at Microsoft, primarily focused on Azure Infrastructure. Therefore, you'll find that most of the content I engage with is related to Azure Infrastructure.
 </br>
-## Azure Dashboards
-* [Cost and Optmization Dashboard](https://github.com/fabiotreze/public_randomstuff/tree/main/dashboards)
 ## Azure Arc
 * [Azure Arc](https://github.com/fabiotreze/AzureArcDemo/blob/main/README.md)
 * [Azure Arc SQL Instance - Tag Inheritance script](https://github.com/fabiotreze/Azure-Automation/blob/main/README.md)
+## Azure Dashboards
+* [Cost and Optmization Dashboard](https://github.com/fabiotreze/public_randomstuff/tree/main/dashboards)
 </br>
 Your visit is much appreciated – thank you!
 
