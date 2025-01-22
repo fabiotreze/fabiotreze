@@ -9,5 +9,5 @@ I'm a Cloud Solution Architect at Microsoft, specializing in Azure Infrastructur
 ## Azure Dashboards
 - [Cost and Optimization Dashboard](https://github.com/fabiotreze/public_randomstuff/tree/main/dashboards)
 
-<br>
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fabiotreze/).
+---
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fabiotreze/).
