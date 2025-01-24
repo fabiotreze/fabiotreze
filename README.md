@@ -4,7 +4,6 @@ I'm a Cloud Solution Architect at Microsoft, specializing in Azure Infrastructur
 
 ## Azure Arc
 - [Azure Arc Demo](https://github.com/fabiotreze/AzureArcDemo/blob/main/README.md)
-- [Azure Arc SQL Instance - Tag Inheritance Script](https://github.com/fabiotreze/Azure-Automation/blob/main/README.md)
 
 ## Azure Dashboards
 - [Cost and Optimization Dashboard](https://github.com/fabiotreze/public_randomstuff/tree/main/dashboards)
