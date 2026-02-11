@@ -2,28 +2,46 @@
 
 Welcome to my GitHub space!
 
-This is a **personal repository**, dedicated to independent studies, experiments, and technical projects.  
+This is a **personal projects spaces**, dedicated to independent studies, experiments, and technical projects.  
 While many of my projects involve cloud architecture and automation, **no material here contains confidential, sensitive, or proprietary information**.
 
 My main focus areas are **Azure Infrastructure**, **modern cloud solutions**, and **the occasional crypto experiment**.
 
 ---
 
-## 🔍 Featured Projects
+## 🔍 Personal Projects
+
+### ![Image](https://raw.githubusercontent.com/fabiotreze/nossodireito/main/images/favicon.ico) [NossoDireito — Rights Portal for People with Disabilities](https://github.com/fabiotreze/nossodireito)
+**Regional project** — interface and content in Portuguese (pt-BR) for Brazilian citizens.  
+Web portal with 15 rights categories, 29 official sources, keyword-based document analysis, accessibility tools (VLibras sign language, TTS), and encrypted storage. Achieved a 100/100 quality gate.  
+
+🌐 **Live:** [nossodireito.fabiotreze.com](https://nossodireito.fabiotreze.com) _(Portuguese)_  
+`HTML5` · `JavaScript` · `Node.js` · `Azure` · `CI/CD` · `PWA` · `Accessibility`
 
 ### 🔗 [DeFi CLI — Uniswap V3 Analyzer](https://github.com/fabiotreze/defi-cli)
-Educational CLI for analysing DeFi concentrated-liquidity positions.  
-Uniswap V3 formulas with cited sources, real-time data via DEXScreener API, risk alerts, and HTML reports.  
+Educational CLI for analyzing DeFi concentrated-liquidity positions.  
+Uniswap V3 formulas with cited sources, real-time DEXScreener API data, risk alerts, and HTML reports.  
+
+🌐 **Live:** [defi.fabiotreze.com](https://defi.fabiotreze.com)  
 `Python` · `On-Chain Data` · `Uniswap V3` · `HTML Reports`
 
-### 🌐 [Azure Arc Demo](https://github.com/fabiotreze/AzureArcDemo/blob/main/README.md)
-A practical demonstration of Azure Arc capabilities for hybrid and multicloud environments.
+### 🌐 [Azure Arc BR Tips](https://github.com/fabiotreze/AzureArcBRTips)
+Labs and practical scenarios for testing Azure Arc functionalities.  
+Hands-on exercises, PowerShell automation scripts, monitoring workbooks, and dashboard templates for hybrid cloud scenarios.  
 
-### 🧪 [_AzureLab](https://github.com/fabiotreze/_AzureLab)
-A collection of labs and templates for experimenting with Azure services and automation.
+`Azure Arc` · `PowerShell` · `Hybrid Cloud` · `Monitoring` · `Workbooks`
+
+### 🧪 [_AzureLab — Hub-Spoke Network](https://github.com/fabiotreze/_AzureLab)
+Terraform project for deploying a Hub-Spoke network topology in Azure.  
+Multi-region design (South Central US + Brazil South), DNS management, NSG security rules, VNet peering, and modular infrastructure.  
+
+`Azure` · `Terraform` · `Networking` · `Hub-Spoke` · `DNS`
 
 ### 💻 [Azure Cost and Optimization Dashboard](https://github.com/fabiotreze/public_randomstuff/tree/main/dashboards)
-Dashboard for monitoring Azure costs, usage, and resource optimization.
+Azure dashboard for identifying cost-saving opportunities and resource optimization.  
+Orphaned asset detection, reserved instance usage, Azure Hybrid Benefit analysis, and resource status monitoring using KQL queries.  
+
+`Azure` · `KQL` · `Cost Management` · `Dashboard`
 
 ---
 
