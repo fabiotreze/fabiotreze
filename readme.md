@@ -12,11 +12,11 @@ My main focus areas are **Azure Infrastructure**, **modern cloud solutions**, an
 ## 🔍 Personal Projects
 
 ### ![Image](https://raw.githubusercontent.com/fabiotreze/nossodireito/main/images/favicon.ico) [NossoDireito — Rights Portal for People with Disabilities](https://github.com/fabiotreze/nossodireito)
-**Regional project** — interface and content in Portuguese (pt-BR) for Brazilian citizens.  
-Web portal with 15 rights categories, 29 official sources, keyword-based document analysis, accessibility tools (VLibras sign language, TTS), and encrypted storage. Achieved a 100/100 quality gate.  
+**Regional project** — interface and content in Portuguese (pt-BR) for Brazilian citizens.
+Web portal with 25 rights categories, 68 official sources, keyword-based document analysis, accessibility tools (VLibras sign language, TTS), and encrypted storage. Master Compliance 100% (973.9/973.9 — 20 validation categories).
 
 🌐 **Live:** [nossodireito.fabiotreze.com](https://nossodireito.fabiotreze.com) _(Portuguese)_  
-`HTML5` · `JavaScript` · `Node.js` · `Azure` · `CI/CD` · `PWA` · `Accessibility`
+`HTML5` · `JavaScript` · `Node.js` · `Azure Web Apps` · `CI/CD` · `PWA` · `WCAG/eMAG Accessibility`
 
 ### 🔗 [DeFi CLI — Uniswap V3 Analyzer](https://github.com/fabiotreze/defi-cli)
 Educational CLI for analyzing DeFi concentrated-liquidity positions.  
