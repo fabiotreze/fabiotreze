@@ -12,8 +12,7 @@ My main focus areas are **Azure Infrastructure**, **modern cloud solutions**, an
 ## 🔍 Personal Projects
 
 ### ![Image](https://raw.githubusercontent.com/fabiotreze/nossodireito/main/images/favicon.ico) [NossoDireito — Rights Portal for People with Disabilities](https://github.com/fabiotreze/nossodireito)
-**Regional project** — interface and content in Portuguese (pt-BR) for Brazilian citizens.
-Web portal with 25 rights categories, 68 official sources, keyword-based document analysis, accessibility tools (VLibras sign language, TTS), and encrypted storage. Master Compliance 100% (973.9/973.9 — 20 validation categories).
+**Regional project** — interface and content in Portuguese (pt-BR) for Brazilian citizens. Web portal with 25 rights categories, 68 official sources, keyword-based document analysis (609 mapped terms), accessibility tools (VLibras sign language, TTS, high contrast, font scaling), PWA offline support, and encrypted storage via Web Crypto API. Zero data collection (LGPD compliant). Master Compliance 100% (1059.9/1059.9 — 21 validation categories). Infrastructure as Code with Terraform on Azure App Service, CI/CD via GitHub Actions with automated Quality Gate.
 
 🌐 **Live:** [nossodireito.fabiotreze.com](https://nossodireito.fabiotreze.com) _(Portuguese)_  
 `HTML5` · `JavaScript` · `Node.js` · `Azure Web Apps` · `CI/CD` · `PWA` · `WCAG/eMAG Accessibility`
