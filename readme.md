@@ -17,11 +17,13 @@ My main focus areas are **Azure Infrastructure**, **modern cloud solutions**, an
 🌐 **Live:** [nossodireito.fabiotreze.com](https://nossodireito.fabiotreze.com) _(Portuguese)_  
 `HTML5` · `JavaScript` · `Node.js` · `Azure Web Apps` · `CI/CD` · `PWA` · `WCAG/eMAG Accessibility`
 
+<!--
 ### 🔗 [DeFi CLI — Uniswap V3 Analyzer](https://github.com/fabiotreze/defi-cli)
 Educational multi-DEX V3 concentrated-liquidity analyzer with global regulatory compliance. Uniswap V3 🦄 · PancakeSwap V3 🥞 · SushiSwap V3 🍣 · On-chain data · HTML reports · FastAPI web app
 
 🌐 **Live:** [defi.fabiotreze.com](https://defi.fabiotreze.com)  
 `Python` · `On-Chain Data` · `Uniswap V3` · `HTML Reports`
+-->
 
 ### 🌐 [Azure Arc BR Tips](https://github.com/fabiotreze/AzureArcBRTips)
 Labs and practical scenarios for testing Azure Arc functionalities.  
