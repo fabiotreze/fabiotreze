@@ -31,12 +31,6 @@ Hands-on exercises, PowerShell automation scripts, monitoring workbooks, and das
 
 `Azure Arc` · `PowerShell` · `Hybrid Cloud` · `Monitoring` · `Workbooks`
 
-### 🧪 [_AzureLab — Hub-Spoke Network](https://github.com/fabiotreze/_AzureLab)
-Terraform project for deploying a Hub-Spoke network topology in Azure.  
-Multi-region design (South Central US + Brazil South), DNS management, NSG security rules, VNet peering, and modular infrastructure.  
-
-`Azure` · `Terraform` · `Networking` · `Hub-Spoke` · `DNS`
-
 ### 💻 [Azure Cost and Optimization Dashboard](https://github.com/fabiotreze/public_randomstuff/tree/main/dashboards)
 Azure dashboard for identifying cost-saving opportunities and resource optimization.  
 Orphaned asset detection, reserved instance usage, Azure Hybrid Benefit analysis, and resource status monitoring using KQL queries.  
