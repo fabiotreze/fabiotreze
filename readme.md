@@ -12,17 +12,11 @@ My main focus areas are **Azure Infrastructure**, **modern cloud solutions**, an
 ## 🔍 Personal Projects
 
 ### ![Image](https://raw.githubusercontent.com/fabiotreze/nossodireito/main/images/favicon.ico) [NossoDireito — Rights Portal for People with Disabilities](https://github.com/fabiotreze/nossodireito)
-**NossoDireito** — Rights Portal for People with Disabilities. Regional project — interface and content in Portuguese (pt-BR) for Brazilian citizens. Web portal with 30 rights categories, 68 official sources, keyword-based document analysis (609 mapped terms), accessibility tools (VLibras sign language, TTS, high contrast, font scaling), PWA offline support, and encrypted storage via Web Crypto API. Zero data collection (LGPD compliant). Master Compliance score 1077.7/1082.7 (99.54%) across 21 validation categories. Infrastructure as Code with Terraform on Azure App Service (region brazilsouth), CI/CD via GitHub Actions with automated Quality Gate.
+**NossoDireito** — Rights Portal for People with Disabilities. Regional project — interface and content in Portuguese (pt-BR) for Brazilian citizens. Web portal with 30 rights categories, official-source references, keyword-based document analysis, accessibility tools (VLibras sign language, TTS, high contrast, font scaling), PWA offline support, and encrypted storage via Web Crypto API. Zero data collection (LGPD compliant). Master Compliance score 1109.7/1113.2 (99.7%) across 30 validation categories. Deployed to Azure App Service (region brazilsouth) via ZIP deploy; Terraform for infrastructure replication. CI/CD via GitHub Actions with automated Quality Gate.
+
+
 
 `HTML5` · `JavaScript` · `Node.js` · `Azure Web Apps` · `CI/CD` · `PWA` · `WCAG/eMAG Accessibility`
-
-<!--
-### 🔗 [DeFi CLI — Uniswap V3 Analyzer](https://github.com/fabiotreze/defi-cli)
-Educational multi-DEX V3 concentrated-liquidity analyzer with global regulatory compliance. Uniswap V3 🦄 · PancakeSwap V3 🥞 · SushiSwap V3 🍣 · On-chain data · HTML reports · FastAPI web app
-
-🌐 **Live:** [defi.fabiotreze.com](https://defi.fabiotreze.com)  
-`Python` · `On-Chain Data` · `Uniswap V3` · `HTML Reports`
--->
 
 ### 🌐 [Azure Arc BR Tips](https://github.com/fabiotreze/AzureArcBRTips)
 Labs and practical scenarios for testing Azure Arc functionalities.  
