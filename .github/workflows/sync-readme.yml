@@ -33,9 +33,11 @@ jobs:
           # Substitui entre NOSSODIREITO-ABOUT:START e :END no README local
           python3 <<'PY'
           import re, pathlib
-          # GitHub é case-insensitive p/ README mas o file no repo é "readme.md"
           dst = pathlib.Path("readme.md") if pathlib.Path("readme.md").exists() else pathlib.Path("README.md")
-          src = pathlib.Path("/tmp/section.md").read_text(encoding="utf-8").strip()
+          src = pathlib.Path("/tmp/section.md").read_text(encoding="utf-8")
+          # Remove headers (###, ####...) — só queremos o paragrafo,
+          # ja existe heading proprio no profile readme acima do marcador
+          src = "\n".join(l for l in src.splitlines() if not l.lstrip().startswith("#")).strip()
           text = dst.read_text(encoding="utf-8")
           new = re.sub(
               r"(<!-- NOSSODIREITO-ABOUT:START -->)(.*?)(<!-- NOSSODIREITO-ABOUT:END -->)",
