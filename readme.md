@@ -11,16 +11,6 @@ My main focus areas are **Azure Infrastructure**, **modern cloud solutions**, an
 
 ## 🔍 Personal Projects
 
-### ![Image](https://raw.githubusercontent.com/fabiotreze/nossodireito/main/images/favicon.ico) [NossoDireito — Rights Portal for People with Disabilities](https://github.com/fabiotreze/nossodireito)
-<!-- NOSSODIREITO-ABOUT:START -->
-<!-- conteúdo sincronizado automaticamente do nossodireito/README.md — não edite manualmente -->
-**NossoDireito — Public Catalog of Rights for People with Disabilities in Brazil.** Regional project — interface and content in Portuguese (pt-BR) for Brazilian citizens. Public catalog that **references official sources** (.gov.br, Planalto, INSS, Ministry of Health) across **42 rights categories**, with keyword-based document analysis, accessibility tools (VLibras sign language, TTS, high contrast, font scaling), encrypted client-side storage via Web Crypto API (AES-GCM-256), no account system, no tracking cookies, and no individual profiling. Does not interpret law, does not advise on individual cases. LGPD posture: technical access logs, aggregate in-memory counters, local-only browser storage, and opt-in anonymized AI analysis are documented in the privacy policy. CI quality gates: CodeQL, gitleaks, Quality Gate (`scripts/validate_all.py`), Lighthouse (perf/seo/a11y/bp) and axe-core WCAG 2.1 AA in 3 browser engines (chromium/firefox/webkit). Deployed to Azure App Service (region `brazilsouth`) via ZIP deploy; Terraform (azurerm remote state) for infrastructure replication.
-<!-- NOSSODIREITO-ABOUT:END -->
-
-
-
-`HTML5` · `JavaScript` · `Node.js` · `Azure Web Apps` · `CI/CD` · `PWA` · `WCAG/eMAG Accessibility`
-
 ### 🌐 [Azure Arc BR Tips](https://github.com/fabiotreze/AzureArcBRTips)
 Labs and practical scenarios for testing Azure Arc functionalities.  
 Hands-on exercises, PowerShell automation scripts, monitoring workbooks, and dashboard templates for hybrid cloud scenarios.  
