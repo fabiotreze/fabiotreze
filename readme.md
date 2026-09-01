@@ -2,26 +2,10 @@
 
 Welcome to my GitHub space!
 
-This is a **personal projects spaces**, dedicated to independent studies, experiments, and technical projects.  
+This is a **personal project space**, dedicated to independent studies, experiments, and technical projects.  
 While many of my projects involve cloud architecture and automation, **no material here contains confidential, sensitive, or proprietary information**.
 
-My main focus areas are **Azure Infrastructure**, **modern cloud solutions**, and **the occasional crypto experiment**.
-
----
-
-## 🔍 Personal Projects
-
-### 🌐 [Azure Arc BR Tips](https://github.com/fabiotreze/AzureArcBRTips)
-Labs and practical scenarios for testing Azure Arc functionalities.  
-Hands-on exercises, PowerShell automation scripts, monitoring workbooks, and dashboard templates for hybrid cloud scenarios.  
-
-`Azure Arc` · `PowerShell` · `Hybrid Cloud` · `Monitoring` · `Workbooks`
-
-### 💻 [Azure Cost and Optimization Dashboard](https://github.com/fabiotreze/public_randomstuff/tree/main/dashboards)
-Azure dashboard for identifying cost-saving opportunities and resource optimization.  
-Orphaned asset detection, reserved instance usage, Azure Hybrid Benefit analysis, and resource status monitoring using KQL queries.  
-
-`Azure` · `KQL` · `Cost Management` · `Dashboard`
+My main focus areas are **Azure Infrastructure**, **modern cloud solutions**, and **the occasional related experiment**.
 
 ---
 
@@ -34,4 +18,4 @@ All content is **educational**, **experimental**, and **free of confidential inf
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fabiotreze-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotreze/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotreze/)
