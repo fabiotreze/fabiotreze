@@ -1,21 +1,20 @@
-# 👋 Hello!
+# 👋 Hello! Welcome to my GitHub space
 
-Welcome to my GitHub space!
+This is a **personal sandbox** dedicated to independent studies, technical experiments, and hands-on cloud projects. 
 
-This is a **personal project space**, dedicated to independent studies, experiments, and technical projects.  
-While many of my projects involve cloud architecture and automation, **no material here contains confidential, sensitive, or proprietary information**.
-
-My main focus areas are **Azure Infrastructure**, **modern cloud solutions**, and **the occasional related experiment**.
-
----
-
-## 📢 Important Notice
-
-This repository is maintained independently and does not represent official documentation from any organization.  
-All content is **educational**, **experimental**, and **free of confidential information**.
+My primary focus areas are:
+* **Azure Infrastructure & Architecture**
+* **Cloud Automation & Governance**
+* **Modern Systems Engineering & Scripting**
 
 ---
 
-## 🌐 Connect with Me
+### 📢 Notice
+This space is maintained independently for educational and experimental purposes. It does not represent official documentation from any organization, and **no repositories here contain confidential, proprietary, or sensitive data**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotreze/)
+---
+
+### 🌐 Certifications & Connect
+
+[![Credly Badge](https://img.shields.io/badge/Credly-Certifications-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/fabiotreze)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotreze/)
