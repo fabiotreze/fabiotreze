@@ -12,12 +12,13 @@ My primary focus areas are:
 
 ### 🚀 Featured project
 
-**[Arc Posture Review](https://github.com/fabiotreze/arc-posture-review)** — a free, read-only security assessment kit for Azure Arc-enabled servers and SQL Server enabled by Azure Arc.
+[**Arc Posture Review**](https://github.com/fabiotreze/arc-posture-review) — a free, read-only security assessment kit for Azure Arc-enabled servers and SQL Server enabled by Azure Arc.
 
-* 62 checks based on the Microsoft Cloud Security Benchmark and the Cloud Adoption Framework
-* Decision trees from onboarding to decommissioning
-* Read-only PowerShell collector, local in-browser analysis and a prioritized action plan
-* English and Brazilian Portuguese
+- 60+ checks based on the Microsoft Cloud Security Benchmark (v2) and the Cloud Adoption Framework
+- Decision trees from onboarding to decommissioning
+- Read-only PowerShell collector, local in-browser analysis and a prioritized action plan scored on the Defender for Cloud Secure Score model
+- Scales to large estates with an optional machine limit
+- English and Brazilian Portuguese
 
 [![Open online](https://img.shields.io/badge/Open-online-0078D4)](https://fabiotreze.github.io/arc-posture-review/)
 [![Português](https://img.shields.io/badge/Abrir-em%20português-107C10)](https://fabiotreze.github.io/arc-posture-review/arc-posture-review.pt-BR.html)
