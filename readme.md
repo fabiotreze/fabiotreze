@@ -1,5 +1,7 @@
 # 👋 Hello! Welcome to my GitHub space
 
+**🇺🇸 English** · [🇧🇷 Português (Brasil)](https://github.com/fabiotreze/fabiotreze/blob/main/README.pt-BR.md)
+
 This is a **personal sandbox** dedicated to independent studies, technical experiments, and hands-on cloud projects.
 
 My primary focus areas are:
