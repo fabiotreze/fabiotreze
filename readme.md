@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my GitHub space
 
-**🇺🇸 English** · [🇧🇷 Português (Brasil)](https://github.com/fabiotreze/fabiotreze/blob/main/README.pt-BR.md)
+**en-US - English** · [pt-BR - Português (Brasil)](https://github.com/fabiotreze/fabiotreze/blob/main/README.pt-BR.md)
 
 This is a **personal sandbox** dedicated to independent studies, technical experiments, and hands-on cloud projects.
 
@@ -20,9 +20,12 @@ My primary focus areas are:
 A read-only security assessment kit for Azure Arc-enabled servers and SQL Server enabled by Azure Arc, with local analysis and a prioritized action plan.
 
 ☁️ **[AzureArcBRTips](https://github.com/fabiotreze/AzureArcBRTips)**  
-A growing collection of Azure Arc projects, workbooks, scripts and practical guidance. Currently featuring an agent version and automatic upgrade health workbook.
+A growing collection of Azure Arc projects, workbooks, scripts, deployment templates and practical guidance. Currently featuring:
 
-Both include content in **English and Brazilian Portuguese**. Visit each repository for documentation, usage instructions, terms and licenses.
+* **Arc Agent Support Workbook** — agent version compliance, automatic upgrade health, Azure Advisor, Azure Policy and extensions.
+* **SQL Server enabled by Azure Arc PAYG Readiness Workbook** — pay-as-you-go readiness, license type, Extended Security Updates (ESU), CSP consent and connectivity review.
+
+Both include content in **English and Brazilian Portuguese**. Visit each repository for documentation, prerequisites, usage instructions, terms and licenses.
 
 💡 Feel free to explore, learn, adapt and contribute. Suggestions and improvements are always welcome!
 
