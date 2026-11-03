@@ -1,44 +1,47 @@
 # 👋 Olá! Boas-vindas ao meu espaço no GitHub
 
-[🇺🇸 English](https://github.com/fabiotreze) · **🇧🇷 Português (Brasil)**
+[**en-US - English**](https://github.com/fabiotreze/fabiotreze/blob/main/README.md) · **pt-BR - Português (Brasil)**
 
-Este é um **espaço pessoal de estudos e experimentação**, dedicado a pesquisas independentes, experimentos técnicos e projetos práticos em nuvem.
+Este é um **laboratório pessoal** dedicado a estudos independentes, experimentos técnicos e projetos práticos de computação em nuvem.
 
-Um lugar para explorar ideias, aprender na prática e compartilhar recursos com a comunidade.
+Um espaço para explorar ideias, aprender na prática e compartilhar recursos úteis com a comunidade.
 
-Minhas principais áreas de interesse são:
+Minhas principais áreas de foco são:
 * **Infraestrutura e Arquitetura no Azure**
 * **Segurança em Nuvem Híbrida e Azure Arc**
 * **Automação e Governança em Nuvem**
-* **Engenharia de Sistemas e Scripting**
+* **Engenharia de Sistemas Modernos e Scripting**
 
 ---
 
-### 🚀 Conheça meus projetos
+### 🚀 Explore meus projetos
 
 🛡️ **[Arc Posture Review](https://github.com/fabiotreze/arc-posture-review)**  
-Kit de avaliação de segurança, somente leitura, para servidores e SQL Server habilitados pelo Azure Arc, com análise local e plano de ação priorizado.
+Um kit de avaliação de segurança somente leitura para servidores habilitados pelo Azure Arc e SQL Server habilitado pelo Azure Arc, com análise local e plano de ação priorizado.
 
 ☁️ **[AzureArcBRTips](https://github.com/fabiotreze/AzureArcBRTips)**  
-Coleção em evolução de projetos, workbooks, scripts e orientações práticas sobre Azure Arc. O destaque atual é um workbook para acompanhar versões dos agents e a saúde do upgrade automático.
+Uma coleção em expansão de projetos, workbooks, scripts, templates de implantação e orientações práticas sobre Azure Arc. Atualmente inclui:
 
-Ambos incluem conteúdo em **português brasileiro e inglês**. Consulte cada repositório para documentação, instruções de uso, termos e licenças.
+* **Arc Agent Support Workbook** — conformidade das versões do agente, integridade da atualização automática, Azure Advisor, Azure Policy e extensões.
+* **SQL Server enabled by Azure Arc PAYG Readiness Workbook** — avaliação de prontidão para pagamento conforme o uso (PAYG), tipo de licença, Atualizações de Segurança Estendidas (ESU), consentimento CSP e conectividade.
 
-💡 Fique à vontade para explorar, aprender, adaptar e contribuir. Sugestões e melhorias são sempre bem-vindas!
+Ambos incluem conteúdo em **inglês e português brasileiro**. Acesse cada repositório para consultar a documentação, os pré-requisitos, as instruções de uso, os termos e as licenças.
+
+💡 Explore, aprenda, adapte e contribua. Sugestões e melhorias são sempre bem-vindas!
 
 ---
 
-### 📢 Um breve aviso
+### 📢 Um aviso importante
 
-Estes são projetos pessoais e independentes, voltados a estudos e experimentação. Não representam documentação oficial nem possuem endosso da Microsoft ou de qualquer outra organização.
+Estes são projetos pessoais e independentes, voltados a fins educacionais e experimentais. Não são documentação oficial nem são endossados pela Microsoft ou por qualquer outra organização.
 
-O conteúdo pode ser desenvolvido com apoio de IA e é revisado pelo autor. É fornecido sem garantia: revise antes de usar, valide na documentação oficial e teste fora de produção.
+O conteúdo pode ser desenvolvido com auxílio de IA e é revisado pelo autor. É fornecido sem garantia: revise antes de usar, valide com a documentação oficial e teste fora do ambiente de produção.
 
-Mantenha dados sensíveis em sigilo e siga a política de segurança de cada repositório ao reportar vulnerabilidades.
+Mantenha dados sensíveis privados e siga a política de segurança de cada repositório ao relatar vulnerabilidades.
 
 ---
 
 ### 🌐 Certificações e Contato
 
-[![Credly](https://img.shields.io/badge/Credly-Certificações-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/fabiotreze)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotreze/)
+[![Credly Badge](https://img.shields.io/badge/Credly-Certifica%C3%A7%C3%B5es-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/fabiotreze)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotreze/)
