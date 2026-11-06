@@ -1,6 +1,6 @@
 # 👋 Olá! Boas-vindas ao meu espaço no GitHub
 
-[**en-US - English**](https://github.com/fabiotreze/fabiotreze/blob/main/README.md) · **pt-BR - Português (Brasil)**
+[**en-US - English**](./readme.md) · **pt-BR - Português (Brasil)**
 
 Este é um **laboratório pessoal** dedicado a estudos independentes, experimentos técnicos e projetos práticos de computação em nuvem.
 
@@ -38,6 +38,12 @@ Estes são projetos pessoais e independentes, voltados a fins educacionais e exp
 O conteúdo pode ser desenvolvido com auxílio de IA e é revisado pelo autor. É fornecido sem garantia: revise antes de usar, valide com a documentação oficial e teste fora do ambiente de produção.
 
 Mantenha dados sensíveis privados e siga a política de segurança de cada repositório ao relatar vulnerabilidades.
+
+### Licença
+
+Salvo indicação em contrário, a documentação original e os textos de perfil deste repositório estão licenciados sob [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](./LICENSE).
+Ao compartilhar ou adaptar este conteúdo, atribua crédito a [fabiotreze](https://github.com/fabiotreze), inclua o link da licença e indique as alterações.
+Os projetos vinculados mantêm suas próprias licenças. Marcas, logotipos e badges de terceiros não são abrangidos por esta licença.
 
 ---
 

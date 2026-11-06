@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my GitHub space
 
-**en-US - English** · [pt-BR - Português (Brasil)](https://github.com/fabiotreze/fabiotreze/blob/main/README.pt-BR.md)
+**en-US - English** · [pt-BR - Português (Brasil)](./README.pt-BR.md)
 
 This is a **personal sandbox** dedicated to independent studies, technical experiments, and hands-on cloud projects.
 
@@ -38,6 +38,12 @@ These are personal, independent projects for educational and experimental purpos
 Content may be developed with AI assistance and is reviewed by the author. Provided without warranty: review before use, validate against official documentation and test outside production.
 
 Please keep sensitive data private and follow each repository’s security policy when reporting vulnerabilities.
+
+### License
+
+Unless otherwise noted, the original documentation and profile text in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](./LICENSE).
+When sharing or adapting this content, credit [fabiotreze](https://github.com/fabiotreze), link to the license and indicate any changes.
+Linked projects retain their own licenses. Third-party trademarks, logos and badges are not covered by this license.
 
 ---
 
