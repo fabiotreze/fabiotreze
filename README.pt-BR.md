@@ -17,15 +17,15 @@ Minhas principais áreas de foco são:
 ### 🚀 Explore meus projetos
 
 🛡️ **[Arc Posture Review](https://github.com/fabiotreze/arc-posture-review)**  
-Um kit de avaliação de segurança somente leitura para servidores habilitados pelo Azure Arc e SQL Server habilitado pelo Azure Arc, com análise local e plano de ação priorizado.
+Um kit de avaliação de segurança que opera somente em modo de leitura para servidores habilitados pelo Azure Arc e SQL Server habilitado pelo Azure Arc, com análise local e plano de ação priorizado.
 
 ☁️ **[AzureArcBRTips](https://github.com/fabiotreze/AzureArcBRTips)**  
-Uma coleção em expansão de projetos, workbooks, scripts, templates de implantação e orientações práticas sobre Azure Arc. Atualmente inclui:
+Uma coleção em expansão de projetos, workbooks, scripts, modelos de implantação e orientações práticas sobre Azure Arc. Atualmente inclui:
 
 * **Arc Agent Support Workbook** — conformidade das versões do agente, integridade da atualização automática, Azure Advisor, Azure Policy e extensões.
 * **SQL Server enabled by Azure Arc PAYG Readiness Workbook** — avaliação de prontidão para pagamento conforme o uso (PAYG), tipo de licença, Atualizações de Segurança Estendidas (ESU), consentimento CSP e conectividade.
 
-Ambos incluem conteúdo em **inglês e português brasileiro**. Acesse cada repositório para consultar a documentação, os pré-requisitos, as instruções de uso, os termos e as licenças.
+Os dois repositórios oferecem conteúdo em **inglês e português brasileiro**. Acesse cada repositório para consultar a documentação, os pré-requisitos, as instruções de uso, os termos e as licenças.
 
 💡 Explore, aprenda, adapte e contribua. Sugestões e melhorias são sempre bem-vindas!
 
@@ -37,7 +37,7 @@ Estes são projetos pessoais e independentes, voltados a fins educacionais e exp
 
 O conteúdo pode ser desenvolvido com auxílio de IA e é revisado pelo autor. É fornecido sem garantia: revise antes de usar, valide com a documentação oficial e teste fora do ambiente de produção.
 
-Mantenha dados sensíveis privados e siga a política de segurança de cada repositório ao relatar vulnerabilidades.
+Não publique dados sensíveis e siga a política de segurança de cada repositório ao relatar vulnerabilidades.
 
 ### Licença
 

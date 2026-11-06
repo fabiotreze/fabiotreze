@@ -25,7 +25,7 @@ A growing collection of Azure Arc projects, workbooks, scripts, deployment templ
 * **Arc Agent Support Workbook** — agent version compliance, automatic upgrade health, Azure Advisor, Azure Policy and extensions.
 * **SQL Server enabled by Azure Arc PAYG Readiness Workbook** — pay-as-you-go readiness, license type, Extended Security Updates (ESU), CSP consent and connectivity review.
 
-Both include content in **English and Brazilian Portuguese**. Visit each repository for documentation, prerequisites, usage instructions, terms and licenses.
+Both repositories provide content in **English and Brazilian Portuguese**. Visit each repository for documentation, prerequisites, usage instructions, terms and licenses.
 
 💡 Feel free to explore, learn, adapt and contribute. Suggestions and improvements are always welcome!
 
@@ -33,11 +33,11 @@ Both include content in **English and Brazilian Portuguese**. Visit each reposit
 
 ### 📢 A quick note
 
-These are personal, independent projects for educational and experimental purposes—not official documentation or endorsed by Microsoft or any other organization.
+These are personal, independent projects for educational and experimental purposes. They are not official documentation and are not endorsed by Microsoft or any other organization.
 
 Content may be developed with AI assistance and is reviewed by the author. Provided without warranty: review before use, validate against official documentation and test outside production.
 
-Please keep sensitive data private and follow each repository’s security policy when reporting vulnerabilities.
+Please do not publish sensitive data and follow each repository’s security policy when reporting vulnerabilities.
 
 ### License
 
@@ -47,7 +47,7 @@ Linked projects retain their own licenses. Third-party trademarks, logos and bad
 
 ---
 
-### 🌐 Certifications & Connect
+### 🌐 Certifications & Contact
 
 [![Credly Badge](https://img.shields.io/badge/Credly-Certifications-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/fabiotreze)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotreze/)
